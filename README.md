@@ -28,7 +28,7 @@ CLOUDINARY_API_SECRET=
 ```
 
 ```bash
-git clone "https://github.com/shrutiversee/MovieDashboard.git"
+git clone "https://github.com/shrutiversee/Movie.git"
 npm i
 npm run dev
 ```
